@@ -1,5 +1,5 @@
 # fake-sms
-![fai](![Screenshot_2022_0321_111509](https://user-images.githubusercontent.com/70144305/159210769-2f39ef90-e119-4ad1-a920-394d82fe2b40.jpg)
+![fai](https://user-images.githubusercontent.com/70144305/159210769-2f39ef90-e119-4ad1-a920-394d82fe2b40.jpg)
 )
 
 # About:
