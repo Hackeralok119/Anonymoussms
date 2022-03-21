@@ -6,13 +6,13 @@
 
 # Installation:
      1. For Linux Users:
-        a) git clone https://github.com/machine1337/fake-sms
+        a) git clone https://github.com/Hackeralok119/Anonymoussms
         b) cd fake-sms then chmod +x run.sh
         
      2. For Termux Users:
         a) pkg update && pkg upgrade
         b) pkg install git
-        c) git clone https://github.com/machine1337/fake-sms
+        c) git clone https://github.com/Hackeralok119/Anonymoussms
         d) cd fake-sms then chmod +x run.sh
         
 # Usage:
@@ -43,6 +43,6 @@ https://www.youtube.com/channel/UCC_aPnmV_zGfdwktCFE9cPQ
      If You Like This Tool then Kindly Give us a star. Thanks.....
      
 # Author:
- a. https://www.facebook.com/pakhack01
+ a. https://t.me/iamhackeralok
  
- b. https://instagram.com/invisibleclay100
+ b. https://instagram.com/Hackeralok2.0
