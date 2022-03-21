@@ -8,13 +8,13 @@
 # Installation:
      1. For Linux Users:
         a) git clone https://github.com/Hackeralok119/Anonymoussms
-        b) cd fake-sms then chmod +x run.sh
+        b) cd Anonymoussms then chmod +x run.sh
         
      2. For Termux Users:
         a) pkg update && pkg upgrade
         b) pkg install git
         c) git clone https://github.com/Hackeralok119/Anonymoussms
-        d) cd fake-sms then chmod +x run.sh
+        d) cd Anonymoussms then chmod +x run.sh
         
 # Usage:
      Just Type:  bash run.sh
