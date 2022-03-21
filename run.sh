@@ -26,8 +26,8 @@ echo -e ${BLUE}"                                                         #"
 echo -e ${BLUE}"      A Small Tool To Send Messages Anonymously          #"
 echo -e ${RED}"   WARNING: Use this Tool Only For Educational Purpose   #"
 echo -e ${RED}"             I Will Not Be Responsible For Your Shit     #"
-echo -e ${YELLOW}"            Coded By: Machine404                         #"
-echo -e ${GREEN}"             https://facebook.com/unknownclay            #"
+echo -e ${YELLOW}"            Coded By: HackerAlok                         #"
+echo -e ${GREEN}"             https://instagram.com/Hacker_alok1            #"
 echo -e ${RED}"##########################################################"
    
 }
